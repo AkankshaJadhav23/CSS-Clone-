@@ -1,2 +1,2 @@
-# CSS-Clone-
+# CSS-Clone
 Myntra Clone using HTML and CSS
